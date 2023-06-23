@@ -12,7 +12,8 @@ Este projeto mostrará a criação de uma solução de Ciência de Dados para de
 
 ## Dados do Projeto
 
-Neste projeto foram utilizados dados que apresentam transações financeiras que aconteceram em dois dias, disponibilizados por algumas empresas européias de cartões de crédito. Este dataset apresenta 492 fraudes em 284807 transações, o que denota que um grande desbalanceamento dos dados, pois as fraudes representam 0,172% do total de registros. 
+Neste projeto foram utilizados dados que apresentam transações financeiras que aconteceram em dois dias, disponibilizados por algumas empresas européias de cartões de crédito. Este dataset apresenta 492 fraudes em 284807 transações, o que denota que um grande desbalanceamento dos dados, pois as fraudes representam 0,172% do total de registros.
+
 É informado na página original do dataset que os dados possuem apenas variáveis numéricas por causa de uma transformação PCA (Principal Component Analysis - em português, Análise de Componentes Principais). Assim, a maioria das variáveis passaram por essa transformação para fins de confidencialidade dos dados, resultando em colunas com nomes de V1,V2,V3…,V28. 
 
 
