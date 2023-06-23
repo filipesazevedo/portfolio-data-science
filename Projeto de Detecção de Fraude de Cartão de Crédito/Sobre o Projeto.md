@@ -32,8 +32,12 @@ Depois foi verificado o resumo estatístico dos dados com o método `descibre()`
 
 Também, foi verificado se o *dataset* possui valores ausentes com o comando `df.isnull().sum().max()`. Não existem dados faltantes, pois o maior valor nulo encontrado é zero. Além do mais, este conjunto de dados não apresenta a necessidade de um processo de limpeza.
 
-Outra informação verificada foi o balanceamento dos dados, ou seja, a proporção de transações fraudulentas em relação ao total de transações. Conforme mencionado pela página dos dados, apenas 0,172% das transações são fraude. Isso pode ser melhor visualizado através do gráfico de barras gerado com a distribuição entre as duas classes (transações normais e transações com fraude).
+Outra informação verificada foi o balanceamento dos dados, ou seja, a proporção de transações fraudulentas em relação ao total de transações. Conforme mencionado pela página dos dados, apenas 0,172% das transações são fraude. Isso pode ser melhor visualizado através do gráfico de barras gerado com a distribuição entre as duas classes (transações normais e transações com fraude) abaixo. Essa grande desproporcionalidade entre as classes 0 e 1 interfere bastante no desemmpenho de modelos de *machine learning*, portanto é essêncial realizar o balanceamento dos dados neste projeto.
 
 ![Gráfico 1 - Distribuição das Classes](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico1.png)
+
+Em seguida, foram gerados dois gráficos para comparar as distribuições das duas classes em função do tempo (`Time`). Entretanto, nenhuma informação nova foi identificada a partir das distribuições abaixo.
+
+![Gráfico 2 - Distribuição das Classes ao longo do tempo](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico2.png)
 
 ---
