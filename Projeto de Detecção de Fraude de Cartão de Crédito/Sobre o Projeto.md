@@ -34,6 +34,6 @@ Também, foi verificado se o *dataset* possui valores ausentes com o comando `df
 
 Outra informação verificada foi o balanceamento dos dados, ou seja, a proporção de transações fraudulentas em relação ao total de transações. Conforme mencionado pela página dos dados, apenas 0,172% das transações são fraude. Isso pode ser melhor visualizado através do gráfico de barras gerado com a distribuição entre as duas classes (transações normais e transações com fraude).
 
-![Gráfico 1 - Distribuição das Classes](https://drive.google.com/file/d/1oVPQlNHIJY9_tTTuhkYQUsnwCUl2TSt4/view)
+![Gráfico 1 - Distribuição das Classes](https://drive.google.com/file/d/1oVPQlNHIJY9_tTTuhkYQUsnwCUl2TSt4/view?usp=sharing)
 
 ---
