@@ -36,7 +36,7 @@ Outra informação verificada foi o balanceamento dos dados, ou seja, a proporç
 
 ![Gráfico 1 - Distribuição das Classes](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico1.png)
 
-Em seguida, foram gerados dois gráficos para comparar as distribuições das duas classes em função do tempo (`Time`). Entretanto, nenhuma informação nova foi identificada a partir das distribuições abaixo.
+Em seguida, foram gerados dois gráficos para comparar as distribuições das duas classes em função do tempo. Entretanto, nenhuma informação nova foi identificada a partir das distribuições abaixo.
 
 ![Gráfico 2 - Distribuição das Classes ao longo do tempo](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico2.png)
 
