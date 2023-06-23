@@ -25,7 +25,7 @@ Para acessar a página que contém os dados utilizados no projeto e mais detalhe
 ## Análise Exploratória dos Dados
 
 Inicialmente, os dados foram carregados e colocados em um *dataframe* para que fosse possível fazer a sua análise exploratória. Essa análise inicial dos dados é o que permite descobrir mais sobre os dados e como prepará-los para uso de modelo de *machine learning*.
-A primeira etapa da análise foi descobrir como os dados estavam dispostos, visualizando os cinco primeiros registros com o método "head()". Como mencionado anteriormente, o *dataset* tem as colunas transformadas V1, V2, V3, ..., v28 e as colunas não transformadas "Time", "Amount" e "Class". É por meio da coluna "Class" que conseguimos ver quais sãos as transações normais (com valor 0) e as transações com fraude (com valor 1).
+A primeira etapa da análise foi descobrir como os dados estavam dispostos, visualizando os cinco primeiros registros com o método 'head()'. Como mencionado anteriormente, o *dataset* tem as colunas transformadas V1, V2, V3, ..., v28 e as colunas não transformadas 'Time', 'Amount' e 'Class'. É por meio da coluna 'Class' que conseguimos ver quais sãos as transações normais (com valor 0) e as transações com fraude (com valor 1).
 Depois foi verificado o resumo estatístico dos dados
 
 ---
