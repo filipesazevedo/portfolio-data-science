@@ -1,5 +1,3 @@
-[![author](https://img.shields.io/badge/author-filipesazevedo-blue.svg)](https://www.linkedin.com/in/filipeazevedo/) [![](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/downloads/release/python-365/)
-
 # Portfólio de Ciência de Dados
 
 Olá, seja bem-vindo ao meu portifólio com projetos de ciência de dados. Aqui você vai encontrar projetos de Análise Exploratória de Dados, Machine Learning e Deep Learning.
