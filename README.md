@@ -1,6 +1,8 @@
 # Portfólio de Ciência de Dados
 
-Olá, seja bem-vindo ao meu portifólio com projetos de ciência de dados. Aqui você vai encontrar projetos de Análise Exploratória de Dados, Machine Learning e Deep Learning.
+Olá, seja bem-vindo ao meu portifólio com projetos de ciência de dados. 
+
+Meu nome é Filipe Azevedo, trabalhei como professor do curso técnico de Automação Industrial no Colégio Adjetivo CETEP de Mariana-MG. Ministrei as seguintes disciplinas: Aqui você vai encontrar projetos de Análise Exploratória de Dados, Machine Learning e Deep Learning.
 
 Abaixo estão as minhas redes sociais:
 
