@@ -32,6 +32,8 @@ Depois foi verificado o resumo estatístico dos dados com o método `descibre()`
 
 Também, foi verificado se o *dataset* possui valores ausentes com o comando `df.isnull().sum().max()`. Não existem dados faltantes, pois o maior valor nulo encontrado é zero. Além do mais, este conjunto de dados não apresenta a necessidade de um processo de limpeza.
 
+Outra informação verificada foi o balanceamento dos dados, ou seja, a proporção de transações fraudulentas em relação ao total de transações. Conforme mencionado pela página dos dados, apenas 0,172% das transações são fraude. Isso pode ser melhor visualizado através do gráfico de barras gerado com a distribuição entre as duas classes (transações normais e transações com fraude).
 
+![](https://drive.google.com/file/d/1oVPQlNHIJY9_tTTuhkYQUsnwCUl2TSt4/view?usp=drive_link)
 
 ---
