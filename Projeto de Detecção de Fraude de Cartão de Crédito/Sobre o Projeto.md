@@ -51,3 +51,10 @@ Um ponto relevante para se visualizar são as distribuições de cada uma das va
 ![Gráfico 4 - Distribuição das Variáveis para cada Classe](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico4.png)
 
 ---
+
+## Preparo dos Dados para o Modelo
+
+Inicialmente, 
+
+---
+
