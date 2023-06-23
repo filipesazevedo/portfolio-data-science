@@ -66,7 +66,7 @@ Uma etapa que não poderia faltar é o balanceamento dos dados. Nesta parte do p
 
 Após o balanceamento, foram geradas duas matrizes de correlação, uma mostrando as correlações das variáveis antes do balanceamento e outra fazendo o mesmo com os dados balanceados. Com as matrizes abaixo,  é possível ver a nítida diferença entre a matriz de correlação com dados desbalanceados e a mesma com dados balanceados, sendo que a segunda apresenta muito melhor as correlações entre as variáveis.
 
-![Gráfico 6 - Matriz de Correlação: Dados Desbalanceados X Dados Balanceados ](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico6.png)
+![Gráfico 6 - Matriz de Correlação: Dados Desbalanceados X Dados Balanceados](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico6.png)
 
 ---
 
@@ -76,7 +76,7 @@ Após o preparo dos dados, pode-se finalmente construir um modelo de *machine le
 
 O modelo de regressão logística instanciado foi treinado com os dados contidos em `X_rus` e `y_rus`. Com o modelo treinado, foram feitas as previsões com os dados de teste.
 
-Por fim, foi feita a avaliação de desempenho do modelo. Apesar da acurácia do modelo obtido ser de 96,71%, esta não foi a única métrica observada. Depender somente da acurácia pode ser problemático, especialmente em casos de dados originalmente desbalanceados. Portanto, também foi gerado um relatório de classificação com a precisão (precision), recall, f1-score e support do modelo. A tabela abaixo apresenta melhor essas informações do relatório de classificação.
+Após os testes, foi feita a avaliação de desempenho do modelo. Apesar da acurácia do modelo obtido ser de 96,71%, esta não foi a única métrica observada. Depender somente da acurácia pode ser problemático, especialmente em casos de dados originalmente desbalanceados. Portanto, também foi gerado um relatório de classificação com a precisão (precision), recall, f1-score e support do modelo. A tabela abaixo apresenta melhor essas informações do relatório de classificação.
 
 ### Relatório de Classificação
 | Class | Precision | Recall | F1-Score | Support |
@@ -84,11 +84,17 @@ Por fim, foi feita a avaliação de desempenho do modelo. Apesar da acurácia do
 | 0 | 0.9998 | 0.9673 | 0.9833 | 71079 |
 | 1 | 0.0455 | 0.9024 | 0.0867 | 123 |
 
+Outra métrica interessante para é a AUC ROC, também chamada de área sob a curva ROC (*Receiver Operating Characteristic*). Esta é uma métrica que mede a capacidade do modelo de distinguir corretamente as classes. No caso desse modelo obteve-se 95% de AUC.
 
+No final, foi gerada a matriz de confusão que mostra a taxa de acertos para transações com fraude, comparando os valores reais com os valores previstos. Na matriz de confusão abaixo, pode-se perceber os quadrantes em azul escuro com os acertos do modelo tanto para os casos de transações com fraude quanto para os normais. Além disso, nos quadrantes em cor branca, tem-se os erros para ambos os casos.
 
+![Gráfico 7 - Matriz de Confusão](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico7.png)
 
-Uma outra métrica considerada interessante para se avaliar a eficácia é a AUC ROC, ou área sob a curva. No caso desse modelo de Regressão Logística, tem-se 95% de AUC.
+---
 
+## Modelo de *Machine Learning*
+
+Após o preparo dos d
 
 ---
 
