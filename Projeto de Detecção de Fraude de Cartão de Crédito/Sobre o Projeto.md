@@ -54,7 +54,13 @@ Um ponto relevante para se visualizar são as distribuições de cada uma das va
 
 ## Preparo dos Dados para o Modelo
 
-Inicialmente, 
+Uma parte importante deste projeto é o preparo dos dados para o modelo de *machine learning*, pois os dados precisam estar adequados para isso. Uma vez que se entende o *dataset* na análise exploratória, fica fácil saber como prepará-lo para o modelo.
+
+Primeiro foi feita a padronização das colunas `Amount` e `Time` utilizando a classe `StandardScaler` para deixá-las na mesma escala das outras colunas do *dataframe*, visto que uma diferença de escala pode enviesar o treino do modelo de *machine learning*.
+
+Após a padronização, os dados foram divididos entre conjunto de treino e conjunto de teste. 
+
+
 
 ---
 
