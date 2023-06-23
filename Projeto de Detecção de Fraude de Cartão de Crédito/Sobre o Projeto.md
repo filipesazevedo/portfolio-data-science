@@ -16,9 +16,7 @@ Neste projeto foram utilizados dados que apresentam transações financeiras que
 
 É informado na página original do dataset que os dados possuem apenas variáveis numéricas por causa de uma transformação PCA (Principal Component Analysis - em português, Análise de Componentes Principais). Assim, a maioria das variáveis passaram por essa transformação para fins de confidencialidade dos dados, resultando em colunas com nomes de V1,V2,V3…,V28. 
 
-
-
-* **PROJETO 1:** [Nome do Projeto 1](https://github.com/carlosfab/)
+Para acessar os dados utilizados no projeto, [clique aqui]((https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ---
 
