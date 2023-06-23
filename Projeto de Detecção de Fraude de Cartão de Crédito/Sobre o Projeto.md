@@ -16,7 +16,7 @@ Fonte: [2 em cada 10 brasileiros já sofreram fraudes de cartão de crédito](ht
 
 Neste projeto foram utilizados dados que apresentam transações financeiras que aconteceram em dois dias, disponibilizados por algumas empresas européias de cartões de crédito. Este *dataset* apresenta 492 fraudes em 284807 transações, o que denota que um grande desbalanceamento dos dados, pois as fraudes representam 0,172% do total de registros.
 
-É informado na página original do *dataset* que os dados possuem apenas variáveis numéricas por causa de uma transformação PCA (Principal Component Analysis - em português, Análise de Componentes Principais). Assim, a maioria das variáveis passaram por essa transformação para fins de confidencialidade dos dados, resultando em colunas com nomes de V1,V2,V3…,V28. 
+É informado na página original do *dataset* que os dados possuem apenas variáveis numéricas por causa de uma transformação PCA (Principal Component Analysis - em português, Análise de Componentes Principais). Assim, a maioria das variáveis passaram por essa transformação para fins de confidencialidade dos dados, resultando em colunas com nomes de V1, V2, V3, ..., v28. 
 
 Para acessar a página que contém os dados utilizados no projeto e mais detalhes sobre eles, [clique aqui](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
@@ -25,5 +25,7 @@ Para acessar a página que contém os dados utilizados no projeto e mais detalhe
 ## Análise Exploratória dos Dados
 
 Inicialmente, os dados foram carregados e colocados em um *dataframe* para que fosse possível fazer a sua análise exploratória. Essa análise inicial dos dados é o que permite descobrir mais sobre os dados e como prepará-los para uso de modelo de *machine learning*.
+A primeira etapa da análise foi descobrir como os dados estavam dispostos, visualizando os cinco primeiros registros com o método "head()". Como mencionado anteriormente, o *dataset* tem as colunas transformadas V1, V2, V3, ..., v28 e as colunas não transformadas "Time", "Amount" e "Class". É por meio da coluna "Class" que conseguimos ver quais sãos as transações normais (com valor 0) e as transações com fraude (com valor 1).
+Depois foi verificado o resumo estatístico dos dados
 
 ---
