@@ -6,7 +6,7 @@ Meu nome é Filipe Azevedo, trabalhei como professor do curso técnico de Automa
 
 Formação:
 * Graduação em Engenharia de Controle e Automação pela FUPAC.
-* Especialização em Ciências de Dados e Big Data pela PUC Minas.
+* Pós-Graduação em Ciências de Dados e Big Data pela PUC Minas.
 
 Estou sempre aprendendo e desenvolvendo meus conhecimentos. Aqui você vai encontrar projetos de Análise de Dados, Ciência de Dados, Engenharia de Dados, Machine Learning e Deep Learning.
 
