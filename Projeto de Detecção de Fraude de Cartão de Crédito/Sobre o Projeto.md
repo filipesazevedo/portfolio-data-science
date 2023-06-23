@@ -4,7 +4,7 @@ Um problema recorrente tanto para a sociedade quanto para as instituições fina
 
 Essas fraudes geram danos financeiros tanto para consumidores de cartões de crédito quanto para os bancos e fintechs. Também, outro fator relevante a se considerar é a quantidade de falsos positivos (quando o cliente tem seu cartão bloqueado preventivamente pela instituição financeira) que ocorrem para tentar impedir possíveis fraudes, o que se torna uma dor de cabeça no dia a dia do consumidor.
 
-Por conta desses motivos, as empresas acabam investindo cada vez mais na detecção de fraudes utilizando a Inteligência Artificial. Isso significa que utilizando os conhecimentos de Ciência de Dados, principalmente modelos de Machine Learning, as empresas podem gerar uma significativa economia com problemas de fraudes. 
+Por conta de todos esses motivos, as empresas acabam investindo cada vez mais na detecção de fraudes utilizando a Inteligência Artificial. Isso significa que utilizando os conhecimentos de Ciência de Dados, principalmente modelos de Machine Learning, as empresas podem gerar uma significativa economia com problemas de fraudes. 
 
 * **PROJETO 1:** [Nome do Projeto 1](https://github.com/carlosfab/)
 
