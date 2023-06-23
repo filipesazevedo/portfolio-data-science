@@ -68,6 +68,26 @@ Após o balanceamento, foram geradas duas matrizes de correlação, uma mostrand
 
 ![Gráfico 6 - Matriz de Correlação: Dados Desbalanceados X Dados Balanceados ](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico6.png)
 
+---
+
+## Modelo de *Machine Learning*
+
+Após o preparo dos dados, pode-se finalmente construir um modelo de *machine learning*. Como neste projeto a proposta é fazer uma solução que permite detectar fraudes em transações financeiras de cartões de crédito, foi utilizado um modelo de Regressão Logística. A regressão logística é um algoritmo usado para problemas de classificação binária em que o objetivo é prever uma das duas classes possíveis com base em dados de entrada. Como este problema possui uma classe para transações normais (valor 0) e outra para transações com fraude (valor 1), este modelo de classificação cumpre bem o papel de detectar as fraudes.
+
+O modelo de regressão logística instanciado foi treinado com os dados contidos em `X_rus` e `y_rus`. Com o modelo treinado, foram feitas as previsões com os dados de teste.
+
+Por fim, foi feita a avaliação de desempenho do modelo. Apesar da acurácia do modelo obtido ser de 96,71%, esta não foi a única métrica observada. Depender somente da acurácia pode ser problemático, especialmente em casos de dados originalmente desbalanceados. Portanto, também foi gerado um relatório de classificação com a precisão (precision), recall, f1-score e support do modelo. A tabela abaixo apresenta melhor essas informações do relatório de classificação.
+
+### Relatório de Classificação
+| Class | Precision | Recall | F1-Score | Support |
+|--- |--- |--- |--- |--- |
+| 0 | 0.9998 | 0.9673 | 0.9833 | 71079 |
+| 1 | 0.0455 | 0.9024 | 0.0867 | 123 |
+
+
+
+
+Uma outra métrica considerada interessante para se avaliar a eficácia é a AUC ROC, ou área sob a curva. No caso desse modelo de Regressão Logística, tem-se 95% de AUC.
 
 
 ---
