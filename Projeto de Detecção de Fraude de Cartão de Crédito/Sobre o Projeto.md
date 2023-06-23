@@ -6,7 +6,7 @@ Essas fraudes geram danos financeiros tanto para consumidores de cartões de cr�
 
 Por conta de todos esses motivos, as empresas acabam investindo cada vez mais na detecção de fraudes utilizando a Inteligência Artificial. Isso significa que utilizando os conhecimentos de Ciência de Dados, principalmente modelos de Machine Learning, as empresas podem gerar uma significativa economia com problemas de fraudes.
 
-Este projeto mostrará a criação de uma solução de Ciência de Dados para auxiliar na redução dos problemas com fraudes de cartões de crédito.
+Este projeto mostrará a criação de uma solução de Ciência de Dados para detecção de fraudes, sendo útil para a redução das fraudes de cartões de crédito.
 
 * **PROJETO 1:** [Nome do Projeto 1](https://github.com/carlosfab/)
 
