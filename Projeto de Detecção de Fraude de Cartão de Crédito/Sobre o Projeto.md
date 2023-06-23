@@ -8,6 +8,9 @@ Por conta de todos esses motivos, as empresas acabam investindo cada vez mais na
 
 Este projeto mostrará a criação de uma solução de Ciência de Dados para detecção de fraudes, sendo útil para a redução das fraudes de cartões de crédito.
 
+Link do código do Projeto: [Código do Projeto de Detecção de Fraude de Cartão de Crédito](Projeto de Detecção de Fraude de Cartão de Crédito/projeto-fraude-cartao-credito.py)
+
+
 Fonte: [2 em cada 10 brasileiros já sofreram fraudes de cartão de crédito](https://blog.idwall.co/fraudes-de-cartao-de-credito/)
 
 ---
