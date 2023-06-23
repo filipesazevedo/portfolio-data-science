@@ -72,7 +72,7 @@ Após o balanceamento, foram geradas duas matrizes de correlação, uma mostrand
 
 ---
 
-## Modelo de *Machine Learning*
+## Modelo de Machine Learning
 
 Após o preparo dos dados, pode-se finalmente construir um modelo de *machine learning*. Como neste projeto a proposta é fazer uma solução que permite detectar fraudes em transações financeiras de cartões de crédito, foi utilizado um modelo de Regressão Logística. A regressão logística é um algoritmo usado para problemas de classificação binária em que o objetivo é prever uma das duas classes possíveis com base em dados de entrada. Como este problema possui uma classe para transações normais (valor 0) e outra para transações com fraude (valor 1), este modelo de classificação cumpre bem o papel de detectar as fraudes.
 
