@@ -86,7 +86,7 @@ Após os testes, foi feita a avaliação de desempenho do modelo. Apesar da acur
 | 0 | 0.9998 | 0.9673 | 0.9833 | 71079 |
 | 1 | 0.0455 | 0.9024 | 0.0867 | 123 |
 
-Outra métrica interessante para é a AUC ROC, também chamada de área sob a curva ROC (Receiver Operating Characteristic). Esta é uma métrica que mede a capacidade do modelo de distinguir corretamente as classes. No caso desse modelo obteve-se 95% de AUC.
+Outra métrica interessante é a AUC ROC, também chamada de área sob a curva ROC (Receiver Operating Characteristic). Esta é uma métrica que mede a capacidade do modelo de distinguir corretamente as classes. No caso desse modelo obteve-se 95% de AUC.
 
 No final, foi gerada a matriz de confusão que mostra a taxa de acertos para transações com fraude, comparando os valores reais com os valores previstos. Na matriz de confusão abaixo, pode-se perceber os quadrantes em azul escuro com os acertos do modelo tanto para os casos de transações normas quanto para os casos com fraude. Além disso, nos quadrantes em cor branca, tem-se os erros para ambos.
 
