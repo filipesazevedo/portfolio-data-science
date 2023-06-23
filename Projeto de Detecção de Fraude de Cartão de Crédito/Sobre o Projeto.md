@@ -92,9 +92,10 @@ No final, foi gerada a matriz de confusão que mostra a taxa de acertos para tra
 
 ---
 
-## Modelo de *Machine Learning*
+## Conclusão
 
-Após o preparo dos d
+Após a execução deste projeto, pode-se dizer que, mesmo com dados sem valores ausentes e bem tratados, ainda é demandado um pouco de trabalho para adequá-los, por conta do desbalanceamento e da transformação PCA. Foi necessário fazer o balanceamento dos dados e a padronização de duas variáveis para igualá-los com as variáveis que passaram pela transformação PCA, assim deixando o *dataset* pronto para a aplicação de modelo de *machine learning*.
+
+Quanto ao desempenho do modelo, alcançou-se uma boa taxa de acerto. O uso de regressão logística resolveu bem o problema de detectar fraudes de transações de cartão de crédito, porém ainda há espaço para otimização do modelo e, até mesmo, testar outros tipos diferentes de modelo de classificação, a fim de verificar seus desempenhos.
 
 ---
-
