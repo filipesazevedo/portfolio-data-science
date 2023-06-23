@@ -28,6 +28,10 @@ Inicialmente, os dados foram carregados e colocados em um *dataframe* para que f
 
 A primeira etapa da análise foi descobrir como os dados estavam dispostos, visualizando os cinco primeiros registros com o método `head()`. Foi visto que o *dataset* tem as colunas transformadas V1, V2, V3, ..., v28 e as colunas não transformadas `Time`, `Amount` e `Class`. É por meio da coluna `Class` que se sabe quais são as transações normais (com valor 0) e as transações com fraude (com valor 1).
 
-Depois foi verificado o resumo estatístico dos dados com o método `descibre()`
+Depois foi verificado o resumo estatístico dos dados com o método `descibre()`. As variáveis com transformação PCA não tem qualquer problema aparente, assim como a `Time`. A partir da variável `Amount`, percebe-se que a média de transações é de 88.34, mediana de 22.00, desvio padrão de 250.12 e o valor máximo é de 25691,16. Assim, entende-se que a maior parte de todas as transações financeiras são de valores pequenos.
+
+Também, foi verificado se o *dataset* possui valores ausentes com o comando `df.isnull().sum().max()`. Não existem dados faltantes, pois o maior valor nulo encontrado é zero. Além do mais, este conjunto de dados não apresenta a necessidade de um processo de limpeza.
+
+
 
 ---
