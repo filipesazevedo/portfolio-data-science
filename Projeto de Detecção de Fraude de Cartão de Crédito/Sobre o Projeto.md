@@ -4,7 +4,7 @@ Um problema recorrente tanto para a sociedade quanto para as instituições fina
 
 Essas fraudes geram danos financeiros tanto para consumidores de cartões de crédito quanto para os bancos e fintechs. Também, outro fator relevante a se considerar é a quantidade de falsos positivos (quando o cliente tem seu cartão bloqueado preventivamente pela instituição financeira) que ocorrem para tentar impedir possíveis fraudes, o que se torna uma dor de cabeça no dia a dia do consumidor.
 
-Por conta de todos esses motivos, as empresas acabam investindo cada vez mais na detecção de fraudes utilizando a Inteligência Artificial. Isso significa que utilizando os conhecimentos de Ciência de Dados, principalmente modelos de Machine Learning, as empresas podem gerar uma significativa economia com problemas de fraudes.
+Por conta de todos esses motivos, as empresas acabam investindo cada vez mais na detecção de fraudes utilizando a Inteligência Artificial. Isso significa que utilizando os conhecimentos de Ciência de Dados, principalmente modelos de *Machine Learning*, as empresas podem gerar uma significativa economia com problemas de fraudes.
 
 Este projeto mostrará a criação de uma solução de Ciência de Dados para detecção de fraudes, sendo útil para a redução das fraudes de cartões de crédito.
 
@@ -14,9 +14,9 @@ Fonte: [2 em cada 10 brasileiros já sofreram fraudes de cartão de crédito](ht
 
 ## Dados do Projeto
 
-Neste projeto foram utilizados dados que apresentam transações financeiras que aconteceram em dois dias, disponibilizados por algumas empresas européias de cartões de crédito. Este dataset apresenta 492 fraudes em 284807 transações, o que denota que um grande desbalanceamento dos dados, pois as fraudes representam 0,172% do total de registros.
+Neste projeto foram utilizados dados que apresentam transações financeiras que aconteceram em dois dias, disponibilizados por algumas empresas européias de cartões de crédito. Este *dataset* apresenta 492 fraudes em 284807 transações, o que denota que um grande desbalanceamento dos dados, pois as fraudes representam 0,172% do total de registros.
 
-É informado na página original do dataset que os dados possuem apenas variáveis numéricas por causa de uma transformação PCA (Principal Component Analysis - em português, Análise de Componentes Principais). Assim, a maioria das variáveis passaram por essa transformação para fins de confidencialidade dos dados, resultando em colunas com nomes de V1,V2,V3…,V28. 
+É informado na página original do *dataset* que os dados possuem apenas variáveis numéricas por causa de uma transformação PCA (Principal Component Analysis - em português, Análise de Componentes Principais). Assim, a maioria das variáveis passaram por essa transformação para fins de confidencialidade dos dados, resultando em colunas com nomes de V1,V2,V3…,V28. 
 
 Para acessar a página que contém os dados utilizados no projeto e mais detalhes sobre eles, [clique aqui](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
@@ -24,6 +24,6 @@ Para acessar a página que contém os dados utilizados no projeto e mais detalhe
 
 ## Análise Exploratória dos Dados
 
-Texto.
+Inicialmente, os dados foram carregados e colocados em um *dataframe* para que fosse possível fazer a sua análise exploratória para preparo para um modelo de *machine learning*. 
 
 ---
