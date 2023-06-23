@@ -4,6 +4,7 @@ Olá, seja bem-vindo ao meu portifólio.
 
 Meu nome é Filipe Azevedo, trabalhei como professor do curso técnico de Automação Industrial no Colégio Adjetivo CETEP de Mariana-MG. Lá eu ministrei as seguintes disciplinas: Linguagem de Programação I, Linguagem de Programação II, Instrumentação Eletrônica e Controle de Processos, Eletrônica Industrial, Redes de Computadores e Eletrônica Digital.
 
+Formação:
 * Graduação em Engenharia de Controle e Automação pela FUPAC.
 * Especialização em Ciências de Dados e Big Data pela PUC Minas.
 
