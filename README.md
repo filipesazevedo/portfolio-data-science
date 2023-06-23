@@ -10,13 +10,17 @@ Formação:
 
 Estou sempre aprendendo e desenvolvendo meus conhecimentos. Aqui você vai encontrar projetos de Análise de Dados, Ciência de Dados, Engenharia de Dados, Machine Learning e Deep Learning.
 
-## Meus Projetos:
-
-* [Projeto de Detecção de Fraude de Cartões de Crédito](https://github.com/filipesazevedo/portifolio-data-science/blob/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/Sobre%20o%20Projeto.md)
-
 Minhas redes sociais:
 
 * [LinkedIn](https://www.linkedin.com/in/filipeazevedo/)
 
 ---
+
+## Meus Projetos:
+
+* [Projeto de Detecção de Fraude de Cartões de Crédito](https://github.com/filipesazevedo/portifolio-data-science/blob/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/Sobre%20o%20Projeto.md)
+
+---
+
+
 
