@@ -14,7 +14,7 @@ Abaixo estão as minhas redes sociais:
 
 ### Sobre Mim:
 
-Meu nome é Filipe Azevedo, sou formado em Engenharia de Controle e Automação, especializado em Ciência de Dados e Big Data.
+Meu nome é Filipe Azevedo, sou formado em Engenharia de Controle e Automação, pós-graduado na especialização em Ciência de Dados e Big Data.
 
 * Graduação em Engenharia de Controle e Automação pela FUPAC.
 * Especialização em Ciências de Dados e Big Data pela PUC Minas.
