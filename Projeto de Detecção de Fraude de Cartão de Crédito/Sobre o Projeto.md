@@ -8,7 +8,7 @@ Por conta de todos esses motivos, as empresas acabam investindo cada vez mais na
 
 Este projeto mostrará a criação de uma solução de Ciência de Dados para detecção de fraudes, sendo útil para a redução das fraudes de cartões de crédito.
 
-Fonte: [idblog - 2 em cada 10 brasileiros já sofreram fraudes de cartão de crédito](https://blog.idwall.co/fraudes-de-cartao-de-credito/#:~:text=2%20em%20cada%2010%20brasileiros%20j%C3%A1%20sofreram%20fraudes%20de%20cart%C3%A3o%20de%20cr%C3%A9dito,-by%20La%C3%ADs%20Costa&text=Fraudes%20de%20cart%C3%A3o%20de%20cr%C3%A9dito%20continuar%C3%A3o%20um%20problema%20constante%3A%20conforme,adotam%20h%C3%A1bitos%20digitais%20com%20seguran%C3%A7a.)
+Fonte: [2 em cada 10 brasileiros já sofreram fraudes de cartão de crédito](https://blog.idwall.co/fraudes-de-cartao-de-credito/#:~:text=2%20em%20cada%2010%20brasileiros%20j%C3%A1%20sofreram%20fraudes%20de%20cart%C3%A3o%20de%20cr%C3%A9dito,-by%20La%C3%ADs%20Costa&text=Fraudes%20de%20cart%C3%A3o%20de%20cr%C3%A9dito%20continuar%C3%A3o%20um%20problema%20constante%3A%20conforme,adotam%20h%C3%A1bitos%20digitais%20com%20seguran%C3%A7a.)
 
 ---
 
