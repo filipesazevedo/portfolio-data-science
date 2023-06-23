@@ -8,7 +8,7 @@ Formação:
 * Graduação em Engenharia de Controle e Automação pela FUPAC.
 * Pós-Graduação em Ciências de Dados e Big Data pela PUC Minas.
 
-Estou sempre aprendendo e desenvolvendo meus conhecimentos. Aqui você vai encontrar projetos de Análise de Dados, Ciência de Dados, Engenharia de Dados, Machine Learning e Deep Learning.
+Estou sempre aprendendo e desenvolvendo meus conhecimentos. Aqui você vai encontrar projetos de Ciência de Dados, Engenharia de Dados, Machine Learning e Deep Learning.
 
 Minhas redes sociais:
 
