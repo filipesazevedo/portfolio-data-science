@@ -40,4 +40,8 @@ Em seguida, foram gerados dois gráficos para comparar as distribuições das du
 
 ![Gráfico 2 - Distribuição das Classes ao longo do tempo](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico2.png)
 
+Também, foram verificados os *boxplots* de cada classe para ver se há alguma diferença no padrão das transações financeiras em relação à dimensão `Amount`. Com isso, percebe-se uma distribuição diferente para as classes, o que pode influenciar no treinamento do modelo de *machine learning*.
+
+
+
 ---
