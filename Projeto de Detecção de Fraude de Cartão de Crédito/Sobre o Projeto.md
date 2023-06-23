@@ -10,8 +10,7 @@ Fonte: [2 em cada 10 brasileiros já sofreram fraudes de cartão de crédito](ht
 
 Este projeto mostrará a criação de uma solução de Ciência de Dados para detecção de fraudes, sendo útil para a redução das fraudes de cartões de crédito. 
 
-Para acessar o código deste projeto em Python, clique no link abaixo: 
-#### [CÓDIGO PYTHON DO PROJETO](https://github.com/filipesazevedo/portifolio-data-science/blob/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/projeto-fraude-cartao-credito.py)
+Para acessar o código deste projeto em Python, [clique aqui](https://github.com/filipesazevedo/portifolio-data-science/blob/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/projeto-fraude-cartao-credito.py).
 
 ---
 
