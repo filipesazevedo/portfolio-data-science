@@ -58,7 +58,7 @@ Uma parte importante deste projeto é o preparo dos dados para o modelo de *mach
 
 Primeiro foi feita a padronização das colunas `Amount` e `Time` utilizando a classe `StandardScaler` para deixá-las na mesma escala das outras colunas do *dataframe*, visto que uma diferença de escala pode enviesar o treino do modelo.
 
-Após a padronização, os dados foram divididos entre conjunto de treino e conjunto de teste com a função `train_test_split`. Essa parte é muito importante para o uso de *machine learning*, porque os dados de treino e teste não podem ser os mesmos. É importante ressaltar que foi passado o parâmetro `stratify=y` para que a proporção das classes seja a mesma e, assim, evite a sub-representação de uma delas.
+Após a padronização, os dados foram divididos entre conjunto de treino e conjunto de teste com a função `train_test_split`. Essa parte é muito importante para o uso de *machine learning*, porque os dados de treino e teste não podem ser os mesmos. É importante ressaltar que foi passado o parâmetro `stratify=y` para que a proporção das classes seja a mesma e, assim, evitar a sub-representação de uma delas.
 
 Uma etapa que não poderia faltar é o balanceamento dos dados. Nesta parte do preparo de dados, foi utilizada a técnica de *under-sampling* para que a classe minoritária seja preservada. Também, foi gerado um gráfico para verificar a nova distribuição das classes, conforme pode ser visto na imagem abaixo.
 
