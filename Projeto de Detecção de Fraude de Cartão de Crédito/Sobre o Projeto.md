@@ -64,6 +64,9 @@ Uma etapa que não poderia faltar é o balanceamento dos dados. Nesta parte do p
 
 ![Gráfico 5 - Nova Distribuição Classes](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico5.png)
 
+Após o balanceamento, foram geradas duas matrizes de correlação, uma mostrando as correlações das variáveis antes do balanceamento e outra fazendo o mesmo com os dados balanceados. Com as matrizes abaixo,  é possível ver a nítida diferença entre a matriz de correlação com dados desbalanceados e a mesma com dados balanceados, sendo que a segunda apresenta muito melhor as correlações entre as variáveis.
+
+![Gráfico 6 - Matriz de Correlação: Dados Desbalanceados X Dados Balanceados ](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico6.png)
 
 
 
