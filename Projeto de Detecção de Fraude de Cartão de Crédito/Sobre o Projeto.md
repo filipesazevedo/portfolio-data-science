@@ -24,6 +24,6 @@ Para acessar a página que contém os dados utilizados no projeto e mais detalhe
 
 ## Análise Exploratória dos Dados
 
-Inicialmente, os dados foram carregados e colocados em um *dataframe* para que fosse possível fazer a sua análise exploratória e preparo para uso de um modelo de *machine learning*.
+Inicialmente, os dados foram carregados e colocados em um *dataframe* para que fosse possível fazer a sua análise exploratória. Essa análise inicial dos dados é o que permite descobrir mais sobre os dados e como prepará-los para uso de modelo de *machine learning*.
 
 ---
