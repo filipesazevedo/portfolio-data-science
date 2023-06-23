@@ -44,5 +44,11 @@ Também, foram verificados os *boxplots* de cada classe para ver se há alguma d
 
 ![Gráfico 3 - Boxplots das Classes em relação a 'Amount'](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico3.png)
 
+Outra ponto interessante verificado foram as informações estatísticas para a classe das transações com fraude. Neste resumo, a média é de 118.13 e a mediana de 9.21, uma diferença considerável entre valores de média e mediana.
+
+Um ponto relevante para se visualizar são as distribuições de cada uma das variáveis para cada classe. Com isso, pretende-se ver quais são as variáveis mais importantes para detecção de fraudes, assim permitindo uma maior facilidade nesse processo. Por exemplo, as variáveis V3 e V4 são bem diferentes e as variáveis V13 e V15 são parecidas em seu comportamento.
+
+![Gráfico 4 - Distribuição das Variáveis para cada Classe](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico4.png)
+
 
 ---
