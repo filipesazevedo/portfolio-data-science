@@ -56,9 +56,14 @@ Um ponto relevante para se visualizar são as distribuições de cada uma das va
 
 Uma parte importante deste projeto é o preparo dos dados para o modelo de *machine learning*, pois os dados precisam estar adequados para isso. Uma vez que se entende o *dataset* na análise exploratória, fica fácil saber como prepará-lo para o modelo.
 
-Primeiro foi feita a padronização das colunas `Amount` e `Time` utilizando a classe `StandardScaler` para deixá-las na mesma escala das outras colunas do *dataframe*, visto que uma diferença de escala pode enviesar o treino do modelo de *machine learning*.
+Primeiro foi feita a padronização das colunas `Amount` e `Time` utilizando a classe `StandardScaler` para deixá-las na mesma escala das outras colunas do *dataframe*, visto que uma diferença de escala pode enviesar o treino do modelo.
 
-Após a padronização, os dados foram divididos entre conjunto de treino e conjunto de teste. 
+Após a padronização, os dados foram divididos entre conjunto de treino e conjunto de teste com a função `train_test_split`. Essa parte é muito importante para o uso de *machine learning*, porque os dados de treino e teste não podem ser os mesmos. É importante ressaltar que foi passado o parâmetro `stratify=y` para que a proporção das classes seja a mesma e, assim, evite a sub-representação de uma delas.
+
+Uma etapa que não poderia faltar é o balanceamento dos dados. Foi utilizada a técnica de *under-sampling* para que a classe minoritária seja preservada. Também, foi gerado um gráfico para verificar a nova distribuição das classes, conforme pode ser visto na imagem abaixo.
+
+![Gráfico 5 - Nova Distribuição Classes](https://raw.githubusercontent.com/filipesazevedo/portifolio-data-science/main/Projeto%20de%20Detec%C3%A7%C3%A3o%20de%20Fraude%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito/imagens/grafico5.png)
+
 
 
 
